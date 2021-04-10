@@ -66,7 +66,7 @@ const RegisterScreen = (/*{ navigation }*/) => {
             />
             <TextInput
               style={{
-                width: 252,
+                width: "76%",
                 height: "100%",
                 marginLeft: 10,
               }}
@@ -95,7 +95,7 @@ const RegisterScreen = (/*{ navigation }*/) => {
             />
             <TextInput
               style={{
-                width: 252,
+                width: "75%",
                 height: "100%",
                 marginLeft: 10,
                 // borderWidth: 1,
@@ -130,7 +130,7 @@ const RegisterScreen = (/*{ navigation }*/) => {
             />
             <TextInput
               style={{
-                width: 252,
+                width: "75%",
                 height: "100%",
                 marginLeft: 10,
               }}
@@ -163,7 +163,7 @@ const RegisterScreen = (/*{ navigation }*/) => {
             />
             <TextInput
               style={{
-                width: 220,
+                width: "66%",
                 height: "100%",
                 marginLeft: 10,
               }}

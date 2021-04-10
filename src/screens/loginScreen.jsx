@@ -39,8 +39,8 @@ const LoginScreen = ({ navigation }) => {
         <Card
           style={{
             marginTop: 55,
-            zIndex: 1000,
-            elevation: 10,
+            //zIndex: 1000,
+            // elevation: 10,
             alignItems: "center",
             width: "80%",
             height: 500,
@@ -103,11 +103,11 @@ const LoginScreen = ({ navigation }) => {
             />
             <TextInput
               style={{
-                width: "65%",
+                width: "66%",
                 height: "100%",
                 marginLeft: 10,
-                borderWidth: 1,
-                borderColor: "lightgray",
+                //  borderWidth: 1,
+                //  borderColor: "lightgray",
               }}
               type="password"
               secureTextEntry={!isShowPassword}
